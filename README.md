@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Selin</h1>
 <h3 align="center">Freshly graduated Information System Engineer who is into data science.</h3>
 
-- 🔭 I’m currently a student at Enerjisa Data Science Bootcamp 
+- 🔭 I’m currently working on enriching my knowledge in data science practices.
 
 - 📫 How to reach me **i.selinulusoy@gmail.com**
 
