@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Selin</h1>
-<h3 align="center">Freshly graduated Information System Engineer who is into data science.</h3>
+<h3 align="center">Information System Engineer who is into data science.</h3>
 
-- 🔭 I’m currently working on enriching my knowledge in data science practices.
+- 🔭 I’m currently working on landing my first Data Science job.
 
 - 📫 How to reach me **i.selinulusoy@gmail.com**
 
